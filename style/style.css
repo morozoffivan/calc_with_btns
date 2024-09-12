@@ -1,0 +1,40 @@
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    gap: 10px;
+}
+
+.argument {
+    width: 80px;
+}
+
+.result {
+    text-align: center;
+}
+
+body {
+    background-color: #98DED9;
+}
+
+button {
+    background-color: #161D6F;
+    color:#fff;
+    border-radius: 30%;
+    border: 1px solid #C7FFD8;
+}
+
+input {
+    border-radius: 10%;
+    border: 1px solid #C7FFD8;;
+}
+
+input:hover {
+    border: 2px solid #fdffc7;\
+}
+
+button:hover {
+    border: 2px solid #fdffc7;
+}
